@@ -1,2 +1,2 @@
 # JohnBook
-Projeto feito com objetivos de estudo
+Projeto feito com objetivos de estudo.
